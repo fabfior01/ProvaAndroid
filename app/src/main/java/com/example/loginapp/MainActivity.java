@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    Log.d(Tag  );
+    Log.d(Tag );
 
     @Override
     public void startActivityForResult(Intent intent, int requestCode) {
